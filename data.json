@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ali Khan",
+      "email": "ali.khan@example.com",
+      "age": 25,
+      "city": "Lahore"
+    },
+    {
+      "id": 2,
+      "name": "Sara Ahmed",
+      "email": "sara.ahmed@example.com",
+      "age": 28,
+      "city": "Karachi"
+    }
+  ]
+}
+
